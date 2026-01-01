@@ -19,6 +19,9 @@ export default defineConfig(({ mode }) => {
       resolve: {
         alias: {
           '@': path.resolve(__dirname, '.'),
+          // Map bare specifiers used in code to the installed package paths
+          'heroicons-outline': '@heroicons/react/24/outline',
+          'heroicons-solid': '@heroicons/react/24/solid',
         }
       }
     };
